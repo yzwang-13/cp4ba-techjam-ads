@@ -1,0 +1,1 @@
+{"operationId":null,"body":"{\n  \"clientInformation\" : {\n    \"annualRevenue\" : 103314927,\n    \"numberOfEmployees\" : 67,\n    \"companyAge\" : 26\n  },\n  \"industry\" : \"Healthcare\"\n}"}
